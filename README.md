@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/freshment/testing.svg?branch=master)](https://travis-ci.org/freshment/testing)
+
 # Test Demo
 ```
 Here is a Node.js unit test demo
